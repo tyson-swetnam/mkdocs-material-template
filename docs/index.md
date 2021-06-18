@@ -8,8 +8,8 @@ Advisor: [Tyson Lee Swetnam](https://tyson-swetnam.github.io/) [![](https://orci
 
 ## About
 
-Shruti Ramkumar is a rising senior at Hamilton High School and is currently taking part in The University of Arizona's [BIO5 Institute KEYS 2021 summer research internship](https://www.bio5.org/impact/engaging-students/keys-research-internship-program). 
+Shruti Ramkumar is a rising senior at Hamilton High School and is taking part in The University of Arizona's [BIO5 Institute KEYS 2021 summer research internship](https://www.bio5.org/impact/engaging-students/keys-research-internship-program). 
 
-She is currently working in Dr. Tyson L. Swetnam's lab, also part of the [National Science Foundation's](https://www.nsf.gov/) premiere research cyberinfrastructure [CyVerse](https://cyverse.org) which is hosted at The University of Arizona. 
+She is working in Dr. Tyson L. Swetnam's lab, also part of the [National Science Foundation's](https://www.nsf.gov/) premiere research cyberinfrastructure [CyVerse](https://cyverse.org) which is hosted at The University of Arizona. 
 
 This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data principles and hopes to help further open science. 
