@@ -88,8 +88,6 @@ nav:
     - CyVerse: cyverse.md
   - Data: 
     - Data: data.md
-    - ITRDB: itrdb.md
   - Codebase:
     - Python: python.md
     - R: r.md
-    - Fortran77: fortran.md
