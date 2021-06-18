@@ -39,7 +39,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/opendendro
+      link: https://github.com/shrutir11/KEYS
 
 # Extensions
 markdown_extensions:
