@@ -84,6 +84,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md
+  - Logboook: logbook.md
   - Cyberinfrastructure:
     - CyVerse: cyverse.md
   - Data: 
