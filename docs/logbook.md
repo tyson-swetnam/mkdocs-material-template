@@ -9,7 +9,7 @@
 
 *Day 4 (6/17)*: Read ["The iPlant Collaborative: Cyberinfrastructure for Enabling Data to Discovery for the Life Sciences"](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002342) and ["Ten Simple Rules to Cultivate Transdisciplinary Collaboration in Data Science"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008879). Learned about the origins of [CyVerse](https://cyverse.org/) and how it was initially used to support life science communities in their search for a proper tool for data management. Understood the importance of following ten simple rules to help with furthering the culture of collaboration.
 
-*Day 5 (6/18)*: Met with Dr.Swetnam and discussed my tasks for the day.Created this website in order to track progress during KEYS and comply with reproducible science. Added hyperlinks to the introduction page and logbook, created each of the pages using GitHub, and added hyperlinks to each page. 
+*Day 5 (6/18)*: Met with Dr.Swetnam and discussed my tasks for the day.Created this website in order to track progress during KEYS and comply with reproducible science. Added hyperlinks to the introduction page and logbook, created each of the pages using GitHub, and added descriptions to the introduction and logbook pages.
 
 *Day 6 (6/21)*: 
 
