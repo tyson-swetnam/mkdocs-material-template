@@ -11,5 +11,5 @@
 
 *Day 5 (6/18)*: Met with Dr.Swetnam and discussed my tasks for the day.Created this website in order to track progress during KEYS and comply with reproducible science. Added hyperlinks to the introduction page and logbook, created each of the pages using GitHub, and added descriptions to the introduction and logbook pages.
 
-*Day 6 (6/21)*: Added descriptions and hyperlinks to the CyVerse, R, and Python pages. Completed my logbook with more detail. Launched GitPod and then opened a Jupyter Notebook using GitPod.
+*Day 6 (6/21)*: Added descriptions and hyperlinks to the CyVerse, R, and Python pages. Completed my logbook with more detail. Learned how to launch [GitPod](https://linuxtut.com/en/dbb64871480cf1a06acf/) and then opened a Jupyter Notebook using GitPod.
 
