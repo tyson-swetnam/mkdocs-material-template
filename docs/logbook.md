@@ -13,17 +13,17 @@
 
 *Day 6 (6/21)*: Added descriptions and hyperlinks to the CyVerse, R, and Python pages. Completed my logbook with more detail. Learned how to launch [GitPod](https://linuxtut.com/en/dbb64871480cf1a06acf/) and then opened a Jupyter Notebook using GitPod.
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/Launching%20GitPod.JPG)
-> Launching GitPod for the first time!
+> **Launching GitPod for the first time!**
 
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/Launching%20Jupyter%20Notebook%20Using%20GitPod.JPG)
-> Launching Jupyter Notebook using GitPod
+> **Launching Jupyter Notebook using GitPod**
 
-*Day 7(6/22)*: With the help of Dr.Swetnam learned how to access Docker from GitPod and run [GodLoveD/lolcow] (https://github.com/GodloveD/lolcow)container using Docker.
+*Day 7(6/22)*: With the help of Dr.Swetnam learned how to access Docker from GitPod and run [GodLoveD/lolcow](https://github.com/GodloveD/lolcow) container using Docker.
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/First%20Container%20lolcow.JPG)  
-Output from my first container on GitPod
+**Output from my first container on GitPod**
   
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/Manipulating%20various%20entry%20points%20of%20the%20container.JPG)  
- Manipulating the various entry points of the container using GitPod
+**Manipulating the various entry points of the container using GitPod**
 
 
 
