@@ -18,7 +18,7 @@
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/Launching%20Jupyter%20Notebook%20Using%20GitPod.JPG)
 > Launching Jupyter Notebook using GitPod
 
-*Day 7(6/22)*: With the help of Dr.Swetnam learned how to access Docker from GitPod and run [GodLoveD/lolcow](https://github.com/GodloveD/lolcow)container using Docker.
+*Day 7(6/22)*: With the help of Dr.Swetnam learned how to access Docker from GitPod and run [GodLoveD/lolcow] (https://github.com/GodloveD/lolcow)container using Docker.
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/First%20Container%20lolcow.JPG)  
 Output from my first container on GitPod
   
