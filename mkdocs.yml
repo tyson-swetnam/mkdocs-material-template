@@ -93,3 +93,7 @@ nav:
   - Codebase:
     - Python: python.md
     - R: r.md
+    - Java: java.md
+    - GitPod: gitpod.md
+    - GitHub Actions: githubactions.md
+    - Docker: docker.md
