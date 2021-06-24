@@ -9,7 +9,7 @@ Images are used to create Docker containers. These are typically created in GitH
 > **Figure credit**: [Chen 2020](https://medium.com/swlh/understand-dockerfile-dd11746ed183) described in [Medium](https://medium.com/) basic concept of Docker
 
 #### Containers
-
+A container is considered as a package that stores all the libraries, files, and binaries necessary to run an application. Using containers software can be moved from different environments and still run reliably. A container is typically only around 10 megabytes in size meaning that a host could run more than one container whereas they only be able to run one virtual machine. Containers can run across all systems(Windows, Mac, and Linux) making them easily accessible. 
 
 
 
