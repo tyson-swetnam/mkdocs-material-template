@@ -25,5 +25,6 @@
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/Manipulating%20various%20entry%20points%20of%20the%20container.JPG)  
 **Manipulating the various entry points of the container using GitPod**
 
+*Day 8(6/23)*: Attended the KEYS Science Literacy Seminar in the morning where the deans of several of the colleges at the University of Arizona talked. During the seminar also discussed the need to present our projects in layman terms so that the average person can understand what is happening. In the afternoon met with Dr.Swetnam and discussed the tasks for the upcoming two days.
 
-
+*Day 9(6/24)*
