@@ -25,6 +25,14 @@
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/Manipulating%20various%20entry%20points%20of%20the%20container.JPG)  
 **Manipulating the various entry points of the container using GitPod**
 
-*Day 8(6/23)*: Attended the KEYS Science Literacy Seminar in the morning where the deans of several of the colleges at the University of Arizona talked. During the seminar also discussed the need to present our projects in layman terms so that the average person can understand what is happening. In the afternoon met with Dr.Swetnam and discussed the tasks for the upcoming two days.
+*Day 8(6/23)*: Attended the KEYS Science Literacy Seminar in the morning where the deans of several of the colleges at the University of Arizona talked. During the seminar also discussed the need to present our projects in layman terms so that the average person can understand what is happening. In the afternoon met with Dr.Swetnam and discussed the tasks for the upcoming two days. Tried to build container using [GodLoveD/lolcow](https://github.com/GodloveD/lolcow) as an example, but came across this error. 
+> ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/error%20in%20gitpod.JPG)  
+> **Error while attempting to build and push first container**
 
-*Day 9(6/24)*
+*Day 9(6/24)* Attempted to launch Rstudio using the GitPod extension, but was unable to due to errors. Researched about these errors on the GitPod community, but was not able to find any solutions. Used [KasperBrink's GitHub](https://github.com/kasperbrink/gitpodR/) repository as an outline for this attempt. Created pages on the website for Docker, GitPod, GitHub Actions, and Java. Added information + pictures to the Docker page. 
+> ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/rstudio%20error.JPG)  
+> **Error while attempting to launch RStudio using GitPod**
+
+*Day 10(6/25)*
+
+
