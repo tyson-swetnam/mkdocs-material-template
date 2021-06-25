@@ -33,6 +33,9 @@
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/rstudio%20error.JPG)  
 > **Error while attempting to launch RStudio using GitPod**
 
-*Day 10(6/25)*
+*Day 10(6/25)* Added descriptions and pictures to the GitPod, GitHub Actions, and Java pages. With the help of Dr.Swetnam was able to build and push first container to DockerHub. 
+> ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/pushing%20first%20container%20to%20dockerhub.JPG)  
+> **Pushing first container to DockerHub**
+
 
 
