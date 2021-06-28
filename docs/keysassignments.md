@@ -39,3 +39,4 @@ add more here
 - GitHub: Will be used to store repository and code.
 
 ### Methods
+> ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20push%20container%20from%20github%20to%20docker.JPG)
