@@ -30,3 +30,10 @@ By providing a templated development environment, using GitHub, GitPod, Docker, 
 add more here
 
 ## Assignment 2: Materials and Methods
+
+### Materials
+ - Docker: Docker allows it's users to create containers and run an application such as RStudio or Jupyter Notebooks in this environment. This open platform is an easy way to quickly write code and then run it. It allows researchers to run whatever they want in the container without having to download the application itself on the host. Containers can be shared so that everyone can have the same copy of the container. Docker can be used to push researchers' applications into a test environment where they can run automated/manual tests. During this research project it will be used to push containers and open them in DockerHub
+ - GitHib Actions: GitHub Actions allows for the automation of tasks within your software development life cycle. Through GitHub actions users can automatically run their software testing scripts. During this intenrship GitHub Actions will be used to push the code from GitHub to DockerHub and open containers such as rstudio-cyverse in Docker. 
+- GitPod: GitPod is a fully working environment that can be launched from GitHub. Setting up local dev environments is often very time consuming, but GitPod can do this within a couple of seconds. GitPod includes all the tools and binaries that are available on Linux. During this internship GitPod will be used to help launch RStudio, Jupyter, Java8, and more applications directly from GitHub. 
+- Python, R, Java: Will be used in this internship as an application that will be opened using GitPod from a specific repository
+- GitHub: Will be used to store repository and code.
