@@ -37,3 +37,5 @@ add more here
 - GitPod: GitPod is a fully working environment that can be launched from GitHub. Setting up local dev environments is often very time consuming, but GitPod can do this within a couple of seconds. GitPod includes all the tools and binaries that are available on Linux. During this internship GitPod will be used to help launch RStudio, Jupyter, Java8, and more applications directly from GitHub. 
 - Python, R, Java: Will be used in this internship as an application that will be opened using GitPod from a specific repository.
 - GitHub: Will be used to store repository and code.
+
+### Methods
