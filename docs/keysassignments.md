@@ -40,4 +40,6 @@ add more here
 
 ### Methods
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20push%20container%20from%20github%20to%20docker.JPG)
-> ![alt text (https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20launch%20rstudio%20from%20github%20using%20gitpod.JPG)
+> ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20launch%20rstudio%20from%20github%20using%20gitpod.JPG)
+
+
