@@ -90,7 +90,7 @@ nav:
     - CyVerse: cyverse.md
   - Data: 
     - Data: data.md
-  - Codebase:
+  - Methods:
     - Docker: docker.md
     - GitPod: gitpod.md
     - GitHub Actions: githubactions.md
