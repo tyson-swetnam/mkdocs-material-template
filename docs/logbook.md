@@ -37,11 +37,13 @@
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/pushing%20first%20container%20to%20dockerhub.JPG)  
 > **Pushing first container to DockerHub**
 
-*Day 11(6/28)* Added the materials and methods page to the website and added descriptions to these pages. Tried to push container from GitHub to DockerHub
+*Day 11(6/28)* Added the materials and methods page to the website and added descriptions to these pages. Tried to push container from GitHub to DockerHub. Faced several problems along the way two of the problems are shown below.
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/error%20while%20pushing%20to%20github.JPG)  
 > **Error while pushing container to DockerHub/ Solved the error by creating an access token through DockerHub**
+> > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/error%20during%20build%20and%20push.JPG)  
+> **Error while attempting to build the container**
 
-*Day 12(6/29)* Met with Dr.Swetnam and he recommended I try creating a seperate repository to try and push container to DockerHub to see if that works first before attempting this with the r-studio-verse repository. Created a seperate repository using a [tutorial] (https://docs.docker.com/ci-cd/github-actions/) and was able to push my first container from GitHub to Docker
+*Day 12(6/29)* Met with Dr.Swetnam and he recommended I try creating a seperate repository to try and push a container to DockerHub to see if that works first before attempting this with the rstudio-verse repository. Created a seperate repository using a [tutorial](https://docs.docker.com/ci-cd/github-actions/) and was able to push my first container from GitHub to Docker using GitHub Actions. Hope to replicate this in the upcoming days for the rstudio-verse repository. 
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/first%20checkmark!.JPG)  
 > **First checkmark in GitHub Actions indicating my container was pushed to DockerHub!! Took probably over 25-30 tries**
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/first%20time%20pushing%20container%20to%20Docker%20directly%20from%20GitHub%20using%20GitHub%20Actions.JPG)  
