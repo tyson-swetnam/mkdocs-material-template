@@ -48,3 +48,8 @@
 > **First checkmark in GitHub Actions indicating my container was pushed to DockerHub!! Took probably over 25-30 tries**
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/first%20time%20pushing%20container%20to%20Docker%20directly%20from%20GitHub%20using%20GitHub%20Actions.JPG)  
 > **Container appearing in DockerHub after it was pushed from GitHub using GitHub Actions**
+
+*Day 13(6/30)*
+*Day 14(7/6)*
+*Day 13(7/7)* Tried to push rstudio-verse container to Docker using GitHub Actions. Faced several problems along the way. One being that during the build and push stage GitHub was unable to locate the Dockerfile since there were no Dockerfiles in the root of the rstudio-verse folder. To solve this problem created a path and identified where the Dockerfile was. Took about 50+ tries to do this. Then faced another problem when GitHub was installing the rockerverse container because the code exited at step 14/26
+*Day 13(7/8)*
