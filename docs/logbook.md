@@ -50,6 +50,12 @@
 > **Container appearing in DockerHub after it was pushed from GitHub using GitHub Actions**
 
 *Day 13(6/30)*
+
 *Day 14(7/6)*
-*Day 13(7/7)* Tried to push rstudio-verse container to Docker using GitHub Actions. Faced several problems along the way. One being that during the build and push stage GitHub was unable to locate the Dockerfile since there were no Dockerfiles in the root of the rstudio-verse folder. To solve this problem created a path and identified where the Dockerfile was. Took about 50+ tries to do this. Then faced another problem when GitHub was installing the rockerverse container because the code exited at step 14/26
+
+*Day 13(7/7)* Tried to push rstudio-verse container to Docker using GitHub Actions. Faced several problems along the way. One being that during the build and push stage GitHub was unable to locate the Dockerfile since there were no Dockerfiles in the root of the rstudio-verse folder. To solve this problem created a path and identified where the Dockerfile was. Took about 50+ tries to do this. Then faced another problem when GitHub was installing the rockerverse container because the code exited at step 14/26.
+> ![alt text]
+> (https://raw.githubusercontent.com/shrutir11/KEYS/main/images/error%20during%20build%20and%20push%20frontend%20docker.JPG)  
+> **During Build and Push unable to locate Dockerfile**
+
 *Day 13(7/8)*
