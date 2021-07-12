@@ -47,7 +47,13 @@ Line 3-5: Establishes the event that triggers the workflow
 
 Line 6-7: The workflow will automatically build and push every Saturday at 12:00 UTC time 
 
-Line 9: 
+Line 9: Groups together all the jobs
+
+Line 11-12: Ensures that the job runs on virtual machine hosted by GitHub
+
+Line 14: Groups together all the steps. The code under this is usually an action or command
+
+Line 16-17: 
 
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20push%20container%20from%20github%20to%20docker.JPG)
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20launch%20rstudio%20from%20github%20using%20gitpod.JPG)
