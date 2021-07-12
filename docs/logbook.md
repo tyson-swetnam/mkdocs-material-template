@@ -60,6 +60,10 @@
 > **During Build and Push unable to locate Dockerfile**
 
 *Day 16(7/8)* The most successful day of this internship!! Launched RStudio-verse:latest container to DockerHub. Proceeded to use GitHub Actions and launched the rest of the versions of rstudio-verse to DockerHub. Still facing problems with one of the versions of RStudio-verse(3.6.3). Think the problem might be in the Dockerfile and not the .yml file because the code exits at a certain step in the Dockerfile. Was also able to launch all three versions of JuptyerLab to Docker using GitHub Actions under one .yml file. 
+![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/four%20versions%20of%20rstudio%20pushed%20to%20dockerhub.JPG)  
+> **All four versions of RStudio pushed to DockerHub**
+![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/push%20all%20three%20versions%20of%20jupyterlab%20to%20dockerhub.JPG)  
+> **Successful build and push of three versions of JupyterLab using GitHub Actions**
 ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/all%20three%20versions%20in%20dockerhub.JPG)  
 > **All three tagged versions of JupyterLab pushed to Docker using one .yml file**
 
