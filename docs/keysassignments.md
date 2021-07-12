@@ -40,6 +40,12 @@ I am using [GitHub](https://github.com/shrutir11) as the resource for hosting th
 I am building software containers with [Docker](https://docker.com) and hosting them on the [DockerHub](https://hub.docker.com) registry. A Docker container has its own operating system, and the specific software I want to run. Docker is an easy way to quickly write code and then run it. When run on the cloud, Docker allows researchers to run whatever they want in the container without having to download the application itself on the host. Containers can be shared so that everyone can have the same copy of the container. Docker can be used to push researchers' applications into a test environment where they can run automated/manual tests. During this research project it will be used to push containers and open them in GitPod and on CyVerse.
 
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/code%20from%20.yml%20file.JPG)
+
+Line 1: This is the name of workflow when the action is running(optional line)
+Line 3-5: Establishes the event that triggers the workflow
+Line 6-7: The workflow will automatically build and push every Saturday at 12:00 UTC time
+Line 9: 
+
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20push%20container%20from%20github%20to%20docker.JPG)
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20launch%20rstudio%20from%20github%20using%20gitpod.JPG)
 
