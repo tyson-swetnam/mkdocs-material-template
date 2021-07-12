@@ -42,8 +42,11 @@ I am building software containers with [Docker](https://docker.com) and hosting 
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/code%20from%20.yml%20file.JPG)
 
 Line 1: This is the name of workflow when the action is running(optional line) 
+
 Line 3-5: Establishes the event that triggers the workflow 
+
 Line 6-7: The workflow will automatically build and push every Saturday at 12:00 UTC time 
+
 Line 9: 
 
 > ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/methods%20to%20push%20container%20from%20github%20to%20docker.JPG)
