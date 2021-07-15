@@ -71,3 +71,9 @@
 
 ![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/schedule.JPG)  
 > **Code to schedule automatic workflow build**
+
+*Day 18(7/12)* Scheduled builds failed over the weekend so attempted to fix those. Started and finshed the conclusion and discussion of results assignment
+
+*Day 19(7/13)* Started to work on poster and presentation. Added problem, solution, and materials to both poster and presentation. Created graphic for methods on biorender. 
+
+*Day 20(7/14)* Finalized poster and presentation before sending to Dr.Swetnam for feedback. Received feedback and changed the poster and presentation accordingly. Wrote short abstract and received feedback from Dr. Swetnam. 
