@@ -73,5 +73,21 @@ Line 16-17:
 
  - GitHub: Will be used to store repository and code.
 
-### Long Abstract
-Reproducible science is hard. It is defined as the fact that any result obtained from an experiment should be able to be obtained again with a high-level degree of accuracy using the exact same method used in the original experiment. However currently much of the research scientists are doing is unable to be replicated by other fellow peers. This leads to the concern that the results scientists are producing may be flawed or may be left unchecked. As the world shifts to using technology to further research it’s important that scientists begin to use it to help with reproducible science. The purpose of this project was to create living workflows using version control to help scientists with their research. Living workflows such as containers help scientists open applications like RStudio and JupyterLab in a virtual machine where they can instantly share and save their work with others. During this project repositories were created in GitHub in order to build and push containers carrying RStudio and JupyterLab to Docker, Cyverse, and GitPod. The repositories contained Dockerfiles(contain images of the container) and .yml files. The .yml files in the repositories were created using GitHub Actions which created commands to help build and push the containers to the various platforms mentioned previously. Scientists will now be able to click on the repositories in my GitHub and launch containers that have RStudio and JuptyerLab already installed. They then can work in these containers and share their research with peers furthering reproducible science. 
+### Results
+![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/four%20versions%20of%20rstudio%20pushed%20to%20dockerhub.JPG)  
+> **All four versions of RStudio pushed to DockerHub**
+![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/push%20all%20three%20versions%20of%20jupyterlab%20to%20dockerhub.JPG)  
+> **Successful build and push of three versions of JupyterLab using GitHub Actions**
+![alt text](https://raw.githubusercontent.com/shrutir11/KEYS/main/images/all%20three%20versions%20in%20dockerhub.JPG)  
+> **All three tagged versions of JupyterLab pushed to Docker using one .yml file**
+
+### Conclusion
+The goal of this project was accomplished. The goal of this project was to create a GitHub account and create repositories within that GitHub account to help scientists do reproducible research online without having much knowledge about platforms such as GitHub, Docker, etc. 
+
+To accomplish this goal two different repositories were created. The first repository created pushed a container containing RStudio to DockerHub. I was able to code the .yml file so that four different versions of RStudio were pushed to DockerHub. This was done because some old code can only be viewed on older versions of  RStudio while some new code can only be seen on newer versions of DockerHub. The second repository created pushed a container containing three different versions of JuptyerLab to DockerHub for the same reasons stated above. 
+
+Scientists who now want to launch containers can click on my profile, clone the repository, and launch the containers. These containers allow scientists to save, track, and share their work thus complying with reproducible science and aiding in the current crisis. It also enable scientists to be able to launch containers without having much knowledge or installing RStudio or JupyterLab on the host. 
+
+
+### Short Abstract
+As the world shifts to using cloud computing technology its important data scientists begin to adopt techniques which enable reproducible results. The purpose of this project was to create living workflows often called 'continuous integration and continuous development' or CI/CD, using code version control systems, and containerized software. These tools all help data scientists in recording and sharing their research objects. Code repositories were created in GitHub which used continuous 'actions' which pushed pre-compiled software containers to a public container registry (the DockerHub) as well as a private registry. The containers included Linux operating systems and widely used research software languages R and Python as well as their graphic user interfaces (GUI) integrated development environments (IDE): RStudio and JupyterLab, respectively.
