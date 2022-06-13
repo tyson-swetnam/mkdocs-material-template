@@ -1,13 +1,13 @@
 site_name: KEYS
 site_description: KEYS internship
-site_author: Shruti Ramkumar
-site_url: https://shrutir11.github.io/KEYS/
+site_author: Emma LeRoy
+site_url: https://eleroy3.github.io/KEYS2022/
 
 # Repository
-repo_name: KEYS
-repo_url: https://github.com/shrutir11/KEYS
+repo_name: KEYS2022
+repo_url: https://github.com/eleroy3/KEYS2022
 # Copyright
-copyright: 'Copyright &copy; 2021 - 2022 Shruti Ramkumar'
+copyright: 'Copyright &copy; 2022 - 2023 Emma LeRoy'
 
 
 # Configuration
@@ -39,7 +39,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/shrutir11/KEYS
+      link: https://github.com/eleroy3/KEYS2022
 
 # Extensions
 markdown_extensions:
