@@ -87,8 +87,8 @@ nav:
   - Logbook: logbook.md
   - Assignments: keysassignments.md
   - Google Earth Engine:
-      - STAC Catalogs: 
-      - Awesome Community Datasets: 
+      - STAC Catalogs: STACcatalogs.md
+      - Awesome Community Datasets: communityDataset.md
       
    
  
