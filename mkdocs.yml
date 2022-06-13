@@ -86,15 +86,5 @@ nav:
   - Introduction: index.md
   - Logbook: logbook.md
   - Assignments: keysassignments.md
-  - Methods:
-    - Docker: docker.md
-    - GitPod: gitpod.md
-    - GitHub Actions: githubactions.md
-    - CyVerse: cyverse.md
-    - Data: data.md
-  - Languages:  
-    - Java: java.md
-    - Python: python.md
-    - R: r.md
    
  
