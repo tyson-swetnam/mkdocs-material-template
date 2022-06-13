@@ -88,7 +88,6 @@ nav:
   - Assignments: keysassignments.md
   - GitHub Access:
     - GitHub Education Access: githubed.md
-    - GitHub CodeSpace Access: githubCS.md
   - Google Earth Engine:
     - STAC Catalogs: STACcatalogs.md
     - Awesome Community Datasets: communityDataset.md
