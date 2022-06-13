@@ -3,14 +3,14 @@
 
 # Introduction
 
-Author: Shruti Ramkumar [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3985-6298)
+Author: Emma LeRoy [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3985-6298)
 
 Advisor: [Tyson Lee Swetnam](https://tyson-swetnam.github.io/) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
 ## About
 
-Shruti Ramkumar is a rising senior at Hamilton High School and is taking part in The University of Arizona's [BIO5 Institute KEYS 2021 summer research internship](https://www.bio5.org/impact/engaging-students/keys-research-internship-program). 
+Emma LeRoy is a rising senior at University High School in Tucson, Arizona. During the summer of 2022 she is an intern at The University of Arizona through the BIO5 Institute's [KEYS program.](https://keys.arizona.edu/)
 
-She is working in Dr. Tyson L. Swetnam's lab, also part of the [National Science Foundation's](https://www.nsf.gov/) premiere research cyberinfrastructure [CyVerse](https://cyverse.org) which is hosted at The University of Arizona. 
-
+This summer she is an intern working at The University of Arizona in Dr. Tyson L. Swetnam's lab: a member of [CyVerse](https://cyverse.org), a cutting edge cyberinfrastructure funded by the National Science Foundation that is designed for research and committed to the principles of open science. 
+ 
 This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [CARE](https://www.gida-global.org/care) data principles and hopes to help further open science. 
