@@ -10,3 +10,5 @@
 *Day 4 (6/11)*: Deleted contents of my new repository and this time cloned Shruti's repo through the terminal using git. After some trial and error (I had a very low level of familliarity with git) I got it to work! 
 
 *Day 5 (6/12)*: Now that I had a successfully cloned repository, I worked on editing the mkdocs.yml to get my own website up and running. After setting up the basics and the URL, I added more personal information to further personalize my website. 
+
+*Day 6 (6/13)*: Researched and enrolled in GitHub Education and CodeSpaces (turns out CodeSpaces isn't available as part of the student developer pack). Continued tweaking and cleaning up my GitHub site (read more of the mkdocs documentation to better understand this). Began research into Google Earth Engine and STAC Catalogs to build a foundation for my project this summer. 
