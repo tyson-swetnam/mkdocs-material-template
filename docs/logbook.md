@@ -12,3 +12,5 @@
 *Day 5 (6/12)*: Now that I had a successfully cloned repository, I worked on editing the mkdocs.yml to get my own website up and running. After setting up the basics and the URL, I added more personal information to further personalize my website. 
 
 *Day 6 (6/13)*: Researched and enrolled in GitHub Education and CodeSpaces (turns out CodeSpaces isn't available as part of the student developer pack). Continued tweaking and cleaning up my GitHub site (read more of the mkdocs documentation to better understand this). Began research into Google Earth Engine and STAC Catalogs to build a foundation for my project this summer. 
+
+*Day 7 (6/14)*: Gained increased familliarity with Google Earth Engine and accessed Google Earth Engine Developer. Forked Samapriya's awesome gee community datasets on GitHub to begin working with the repo with the intention of sending a pull request at the end of the summer to send it back to the main. 
