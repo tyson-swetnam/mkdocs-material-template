@@ -15,4 +15,6 @@
 
 *Day 7-8 (6/14-15)*: Gained increased familliarity with Google Earth Engine and accessed Google Earth Engine Developer. Forked Samapriya's awesome gee community datasets on GitHub to begin working with the repo with the intention of sending a pull request at the end of the summer to send it back to the main. 
 
-*Day 9 (6/17)*: Continued to work with Google Earth Engine and began working with Jupyter Notebooks to better understand STAC catalogs. Worked to understand the formatting of the awesome-gee-community datasets by looking at the json files. Continued taking notes on both STAC catalogs and Google Earth Engine (adding these notes to the site tomorrow). 
+*Day 9 (6/16)*: Continued to work with Google Earth Engine and began working with Jupyter Notebooks to better understand STAC catalogs. Worked to understand the formatting of the awesome-gee-community datasets by looking at the json files. Continued taking notes on both STAC catalogs and Google Earth Engine (adding these notes to the site tomorrow). 
+
+*Day 10 (6/17)*: Continued to take notes to better understand the awesome-gee-community datasets and STAC catalogs. Began to transfer notes and information over into the github.io site (still need to make further progress with this). Experimented more with Jupyter Notebooks (need to commit more time to better understanding this). Talked to Dr. Swetnam about plans for meeting with Samapriya next week to discuss his vision for the awesome-gee-community datasets. 
