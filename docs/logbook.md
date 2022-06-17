@@ -13,4 +13,6 @@
 
 *Day 6 (6/13)*: Researched and enrolled in GitHub Education and CodeSpaces (turns out CodeSpaces isn't available as part of the student developer pack). Continued tweaking and cleaning up my GitHub site (read more of the mkdocs documentation to better understand this). Began research into Google Earth Engine and STAC Catalogs to build a foundation for my project this summer. 
 
-*Day 7 (6/14)*: Gained increased familliarity with Google Earth Engine and accessed Google Earth Engine Developer. Forked Samapriya's awesome gee community datasets on GitHub to begin working with the repo with the intention of sending a pull request at the end of the summer to send it back to the main. 
+*Day 7-8 (6/14-15)*: Gained increased familliarity with Google Earth Engine and accessed Google Earth Engine Developer. Forked Samapriya's awesome gee community datasets on GitHub to begin working with the repo with the intention of sending a pull request at the end of the summer to send it back to the main. 
+
+*Day 9 (6/17)*: Continued to work with Google Earth Engine and began working with Jupyter Notebooks to better understand STAC catalogs. Worked to understand the formatting of the awesome-gee-community datasets by looking at the json files. Continued taking notes on both STAC catalogs and Google Earth Engine (adding these notes to the site tomorrow). 
