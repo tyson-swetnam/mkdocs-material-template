@@ -86,11 +86,13 @@ nav:
   - Introduction: index.md
   - Logbook: logbook.md
   - Assignments: keysassignments.md
-  - GitHub Access:
+  - Jupyter Notebooks: jupyter.md
+  - GitHub Actions:
     - GitHub Education Access: githubed.md
   - Google Earth Engine:
     - STAC Catalogs: STACcatalogs.md
     - Awesome Community Datasets: communityDataset.md
+   
   
       
    
