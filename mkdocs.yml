@@ -89,7 +89,7 @@ nav:
   - Jupyter Notebooks: jupyter.md
   - GitHub Actions:
     - GitHub Education Access: githubed.md
-  - Google Earth Engine:
+  - Google Earth Engine: googleEarthEngine.md
     - STAC Catalogs: STACcatalogs.md
     - Awesome Community Datasets: communityDataset.md
    
