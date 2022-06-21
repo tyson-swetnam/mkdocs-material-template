@@ -71,7 +71,7 @@ markdown_extensions:
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
-   - pymdownx.superfences:
+  - pymdownx.superfences:
       # make exceptions to highlighting of code:
       custom_fences:
         - name: mermaid
