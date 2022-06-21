@@ -1,9 +1,12 @@
 # Awesome-gee-community-datasets 
 
-
 ``` mermaid
 graph LR
-  A[Overarching Category] --> B{Markdown file for the page};
-  B --->|Render on github.io site| C[Description, Citation, Earth Engine Snippet, DOI, License];
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
 ```
+
 
