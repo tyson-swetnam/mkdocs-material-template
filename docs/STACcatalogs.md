@@ -5,7 +5,10 @@
 - allows for creation of metadata to make datasets indexable and discoverable
 - promotes reproducibility, open data, and open science 
 - STAC specification means that these large datasets can be used on the cloud as opposed to being downloaded locally, shortens run time and improves ease of use
-
+>![STAC Logo](https://stacindex.org/img/logo.32c921b9.png)
+>
+> **Figure credit**: STAC Specification official logo from the [STAC Index Site](https://stacindex.org/)
+> 
 #### Structure 
 - composed of spatio-temporal assets- a piece of planetary data collected at a specific time with a specific location
 - STAC specification designates inclusion of metadata on time and location of data, thumbnail for searching and discovery, applicable links to raw data, key words to describe relationship of data and point to similar spatio-temporal assets
