@@ -9,6 +9,7 @@
 - The development of GEE as a free resource creates equity within science
 - brings a high level analysis tool to a wider range of people, which furthers open science and promotes inquiry, discovery, and collaboration
 > ![Earth Engine Example Image](https://d32ogoqmya1dw8.cloudfront.net/images/sp/library/google_earth/earth_engine_code_editor_user_inter.jpg)
+> **Figure credit**: Image created by Diana Krupnik for article on [teaching using the GEE API](https://serc.carleton.edu/nagtworkshops/teaching_methods/google_earth/earth_engine_api.html)
 > 
 #### [APIs](https://developers.google.com/earth-engine/tutorials/tutorials)
 - Javascript
@@ -16,7 +17,7 @@
 - Rest 
 
 ### Structure 
-- initially featured a data repository from the past 40 years of global satellite data 
+- initially featured a data repository from the past 40 years of global remote sensing data 
 - now expanded to include vector, climate, demographic, and elevation data 
 - These datasets can be layered to perform complex geospatial analyses
 - community datasets are open source 
