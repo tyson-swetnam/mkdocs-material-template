@@ -26,3 +26,4 @@ It appears that the user is contributing this information for the project file w
 
 *Question: are the contributors also providing the information for the JSON files? because these seem much more correctly standardized to the STAC specification guidelines*
 
+
