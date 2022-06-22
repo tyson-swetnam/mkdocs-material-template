@@ -1,4 +1,4 @@
-# STAC Catalogs
+# [STAC](https://stacspec.org/) Catalogs
 
 ### What Are They?
 - Oftentimes raw data is not ready for analysis and requires pre-processing and the installation of a significant number of software packages 
@@ -14,5 +14,10 @@
 - JSON files are a data interchange format that allow datasets to be displayed in a text based format 
 
 ### How Are They Used? 
+- used to index data, making it searchable and discoverable
+- data standard for formatting and creating metadata for geospatial data 
+- promotes open data and reproducibility 
+- allows data to be shared, understood, and discovered 
+- used for geospatial data about the Earth; however can also be used for planetary data 
 
 #### Use in Google's Earth Engine 
