@@ -22,5 +22,8 @@
 - promotes open data and reproducibility 
 - allows data to be shared, understood, and discovered 
 - used for geospatial data about the Earth; however can also be used for planetary data 
+- Can be viewed as a webpage using a [STAC Browser](https://radiantearth.github.io/stac-browser/#/)
 
 #### Use in Google's Earth Engine 
+- The GEE Public Data Catalog can be viewed as a [STAC catalog](https://gee.stac.cloud/?t=catalogs), [STAC browser](https://radiantearth.github.io/stac-browser/#/external/storage.googleapis.com/earthengine-stac/catalog/catalog.json), or [HTML version](https://developers.google.com/earth-engine/datasets/catalog) 
+- allows searchability, discovery, and improves user functionality 
