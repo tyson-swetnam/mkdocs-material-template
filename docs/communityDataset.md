@@ -1,6 +1,6 @@
 # Awesome-gee-community-datasets 
 
-### Flowchart for the STAC specification used with the community datasets
+## Flowchart for the STAC specification used with the community datasets
 
 ``` mermaid
 graph LR
@@ -9,7 +9,7 @@ graph LR
   C --> D[additional JSONs to describe corresponding datasets in the catalog];
 ```
 
-### Flowchart for the project markdown files that are rendering on the github.io site
+## Flowchart for the project markdown files that are rendering on the github.io site
 
 ``` mermaid
 graph LR
