@@ -1,11 +1,11 @@
 # [Google's Earth Engine](https://developers.google.com/earth-engine)
 
 ### Use
-- Established in 2010 as a geospatial analysis platform
+- Established in 2010 as a geospatial analysis platform (Kumar & Mutanga, 2018)
 - run in the cloud (allows analysis of large datasets)
 - public datasets promotes open science and reproducibility 
-- cloud computing allows planetary scale analysis 
-- users can upload their own datasets and write their own scripts to perform analyses
+- cloud computing allows planetary scale analysis (Kumar & Mutanga, 2018)
+- users can upload their own datasets and write their own scripts to perform analyses (Kumar & Mutanga, 2018)
 - The development of GEE as a free resource creates equity within science
 - brings a high level analysis tool to a wider range of people, which furthers open science and promotes inquiry, discovery, and collaboration
 > ![Earth Engine Example Image](https://d32ogoqmya1dw8.cloudfront.net/images/sp/library/google_earth/earth_engine_code_editor_user_inter.jpg)
@@ -23,7 +23,7 @@
 - community datasets are open source 
 
 #### [Code Editor](https://developers.google.com/earth-engine/guides/playground)
-- Web based IDE for writing scripts 
+- Web based IDE for writing scripts (Get Started with Earth Engine | Google Earth Engine |, n.d.)
 - complex geospatial work flows made easy
 - interactive environment for developing earth engine applications
 - raster data type is a matrix of cells in grid format -- digital aerial photographs, scanned maps 
