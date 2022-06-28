@@ -11,11 +11,7 @@ graph LR
 
 ## Flowchart for the project markdown files that are rendering on the github.io site
 
-``` mermaid
-graph LR
-  A[Overarching Category] --> B{Markdown file for the page};
-  B --->|Render on github.io site| C[Description, Citation, Earth Engine Snippet, DOI, License];
-```
+![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/411D4383-E162-406C-8580-FF05177FD243.jpeg)
 
 However, this information varies slightly for each dataset:
 - some are missing key info such as the DOI 

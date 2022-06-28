@@ -16,6 +16,8 @@
 - Spatio-temporal assets are a type of Javascript Object Notation (JSON) File
 - JSON files are a data interchange format that allow datasets to be displayed in a text based format (The STAC Specification, n.d.)
 
+![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/STAC%20Spec%20Map.png)
+
 ### How Are They Used? 
 - used to index data, making it searchable and discoverable
 - data standard for formatting and creating metadata for geospatial data 
