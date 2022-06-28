@@ -2,12 +2,7 @@
 
 ## Flowchart for the STAC specification used with the community datasets
 
-``` mermaid
-graph LR
-  B[Community Datasets JSON] --> C{title, sample code, type, id, provider, tags};
-  A[Community Datasets CSV] --> C{title, sample code, type, id, provider, tags};
-  C --> D[additional JSONs to describe corresponding datasets in the catalog];
-```
+![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/F66FDA33-AF41-4400-AB79-A4196B6D1CEE.jpeg)
 
 ## Flowchart for the project markdown files that are rendering on the github.io site
 
