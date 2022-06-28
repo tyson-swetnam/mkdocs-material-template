@@ -24,3 +24,21 @@ Fergason, R. L., Hunter, M. A., Laura, J. R., Hare, T. M., & U.S. Geological Sur
 
 Kumar, L., & Mutanga, O. (2018). Google Earth Engine Applications Since Inception: Usage, Trends, and Potential. Remote Sensing, 10(10), 1509. https://doi.org/10.3390/rs10101509
 
+## Assignment 3: Materials and Methods 
+
+To best standardize and organize geospatial data for use with Google’s Earth Engine I will use the Spatio-Temporal Asset Catalog (STAC) Specification. The STAC Specification is the leading standard for geospatial data because it allows for the creation of metadata (data that provides information on the datasets) that allows assets to be indexable and discoverable. By following this specification I will create metadata for the awesome-gee-community datasets to improve reproducibility and promote discovery. 
+
+![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/STAC%20Spec%20Map.png)
+
+Throughout this process I will use free software such as GitHub, VSCode, and Jupyter Notebooks to improve the metadata to align with the STAC Specification: 
+- GitHub is a platform for software development that promotes collaboration and is committed to open science 
+- VSCode is a code editor that provides syntax and debugging support
+- Jupyter Notebooks is a web-based computing platform that allows for the seamless integration of a code editor, terminal, and markdown files for documentation
+
+This software will aid me in completing my project efficiently and effectively. Additionally, their free nature and public access aligns with my project’s mission of furthering open and equitable science. 
+
+The initial organization of the awesome-gee-community datasets on GitHub is represented by this diagram:
+
+![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/411D4383-E162-406C-8580-FF05177FD243.jpeg)
+
+Using the aforementioned software, I will use the coding languages of Python, Markdown, and Javascript to create and improve the awesome-gee-community datasets’ metadata to align with the STAC Specification, allowing its use with Google’s Earth Engine. 
