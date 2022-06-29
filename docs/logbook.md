@@ -28,3 +28,5 @@
 *Day 14 (6/23)*: Today I worked on formatting and gathering my references in order to do in text citations. I also did further work with Jupyter Notebooks and gained more familliarity with the VSCode software. 
 
 *Day 15 (6/24)*: Today I worked on investigating and getting a better feel for the community datasets on GEE. Additionally, I updated my webpage with information on Jupyter Notebooks (I still want to add photos to this). I realized my mermaid diagrams are rendering correctly when I look at the page locally; however, they are still incorrect when I look at the actual website (even when it is up to date). I tried to get them to render correctly but I had no luck. 
+
+*Day 16 + 17 (6/27-28)*: While waiting for the Markdown templates from Samapriya I have been working on creating graphics to better understand my research and improve clarity (the finished ones are up on my website). Additionally, I have been working on compiling a shortlist of some of the community datasets and recording information on these to streamline the standardization of these. 
