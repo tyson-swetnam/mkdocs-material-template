@@ -19,3 +19,5 @@ It appears that the user is contributing this information for the project file w
 
 ## Notes on Earth Engine Visualizations 
 
+[Community Dataset Shortlist](https://docs.google.com/spreadsheets/d/1OOU_1HZxI8xI9jpKEzKSIrjevNu5TRiIizPULzyrypw/edit?usp=sharing)
+
