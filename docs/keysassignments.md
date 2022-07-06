@@ -60,4 +60,6 @@ Fig 1. Visual representation for listing the names of the standardized data sets
 My project is all done through computing, and therefore there is a large volume of code that can’t be realistically all shown on my poster. However, throughout my internship I have been documenting my progress and results on a website I built. I need to further discuss this with my PI, but I also may include a QR code to my website under my results section for viewers who are interested in exploring my project more fully. 
 
 ![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/qrcode_eleroy3.github.io.png)
+
+
 Website QR code for extra information on my project and process
