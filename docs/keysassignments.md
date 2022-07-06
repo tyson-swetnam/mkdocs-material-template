@@ -42,3 +42,19 @@ The initial organization of the awesome-gee-community datasets on GitHub is repr
 ![alt text](https://raw.githubusercontent.com/eleroy3/KEYS2022/main/assets/411D4383-E162-406C-8580-FF05177FD243.jpeg)
 
 Using the aforementioned software, I will use the coding languages of Python, Markdown, and Javascript to create and improve the awesome-gee-community datasets’ metadata to align with the STAC Specification, allowing its use with Google’s Earth Engine. 
+
+## Assignment 4: Results 
+I’m still in the middle of conducting my research; therefore, I don’t have completed results yet. Additionally, my project is somewhat unconventional in nature, as I am processing and standardizing datasets. This means that I won’t have much numerical, collected data to graph or represent in charts. Instead, I plan to include information on which datasets I processed, and what the result of processing them was. I’m currently working with around 50 datasets; however, I’m not sure if I will work through all of these datasets during the internship and there is no logistical way to represent all of them on one poster. However, all of the datasets will be processed and standardized with the same template, producing a similar result but with different data. Therefore, my plan is to document the results of implementing this process for one example dataset, and then also include information on all of the other datasets that I processed. I haven’t begun this process yet because my PI is still working on finalizing the guidelines and template for the process; therefore, I’m not exactly sure what this will look like. I plan to represent my results mostly through visuals. I will include a screenshot of the final, processed spatio-temporal asset, along with a screenshot of this processed data visualized with Google Earth Engine that will look something like this:
+
+Ivushkin, Konstantin, Harm Bartholomeus, Arnold K. Bregt, Alim Pulatov, Bas Kempen, and Luis De Sousa. "Global mapping of soil salinity change."
+Remote sensing of environment 231 (2019): 111260.
+
+
+I will then explain that all of the geospatial datasets were processed in this similar manner to achieve usable, standardized results. Additionally, I will include information on all of the geospatial data that I processed, along with what category it falls into, and its citation. I will represent this through a concept map/flowchart that will look something like this:
+
+
+Fig 1. Visual representation for listing the names of the standardized data sets and their corresponding overall categories 
+
+My project is all done through computing, and therefore there is a large volume of code that can’t be realistically all shown on my poster. However, throughout my internship I have been documenting my progress and results on a website I built. I need to further discuss this with my PI, but I also may include a QR code to my website under my results section for viewers who are interested in exploring my project more fully. 
+
+Website QR code for extra information on my project and process
