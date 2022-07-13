@@ -94,10 +94,11 @@ nav:
     - Google Earth Engine: googleEarthEngine.md
     - STAC Catalogs: STACcatalogs.md
     - Awesome Community Datasets: communityDataset.md
-  - References: references.md
   - Results:
     - Community Dataset Standardization Log: standardizationLog.md
     - Poster: poster.md
+  - References: references.md
+ 
 
    
   
