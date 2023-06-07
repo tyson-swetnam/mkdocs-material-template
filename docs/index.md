@@ -17,7 +17,7 @@ This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [C
 
 # Introduction
 
-    Welcome to my website! This is where I document my learning journey and showcase my work for the KEYS 2022 program. You can navigate through the pages using the links below.
+Welcome to my website! This is where I document my learning journey and showcase my work for the KEYS 2022 program. You can navigate through the pages using the links below.
 
 ## Table of Contents
 
@@ -34,12 +34,12 @@ This website follows the [FAIR](https://www.go-fair.org/fair-principles/) and [C
 
 ## GitHub Actions
 
-    GitHub Actions is a feature that allows you to automate workflows for your GitHub repository. I used GitHub Actions to deploy my website using Material for MkDocs.
+GitHub Actions is a feature that allows you to automate workflows for your GitHub repository. I used GitHub Actions to deploy my website using Material for MkDocs.
 
 ## KEYS 2022 Main Project
 
-    The KEYS 2022 Main Project is the culmination of the program, where I applied the skills and knowledge I learned to a real-world problem. My project was about ...
+The KEYS 2022 Main Project is the culmination of the program, where I applied the skills and knowledge I learned to a real-world problem. My project was about ...
 
 ## Results
 
-    The results of my project are presented in a poster that summarizes my research question, methods, findings and conclusions. You can view the poster here.
+The results of my project are presented in a poster that summarizes my research question, methods, findings and conclusions. You can view the poster here.
