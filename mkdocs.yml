@@ -34,7 +34,7 @@ theme:
     code: Regular
   favicon: assets/Monkey_Face.png
   icon:
-    logo: logo
+    logo: monkey_face
 
 # Options
 extra:
