@@ -26,7 +26,7 @@ Welcome to my website! This is where I document my learning journey and showcase
 - [Jupyter Notebooks](jupyter.md)
 - [GitHub Actions](#github-actions)
 - [GitHub Education Access](githubed.md)
--  [KEYS 2022 Main Project](#keys-2022-main-project)
+-  [KEYS 2023 Main Project](#keys-2023-main-project)
 - [My Project](myproject.md)
 - [Results](#results)
 - [Poster](poster.md) 
@@ -36,9 +36,9 @@ Welcome to my website! This is where I document my learning journey and showcase
 
 GitHub Actions is a feature that allows you to automate workflows for your GitHub repository. I used GitHub Actions to deploy my website using Material for MkDocs.
 
-## KEYS 2022 Main Project
+## KEYS 2023 Main Project
 
-The KEYS 2022 Main Project is the culmination of the program, where I applied the skills and knowledge I learned to a real-world problem. My project was about ...
+The KEYS 2023 Main Project is the culmination of the program, where I applied the skills and knowledge I learned to a real-world problem. My project was about ...
 
 ## Results
 
