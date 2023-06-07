@@ -3,7 +3,7 @@
 
 # Introduction
 
-Author: Ellie Dorland [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)(https://orcid.org/0009-0001-6464-250X)
+Author: Ellie Dorland [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0001-6464-250X)
 
 Advisor: [Tyson Lee Swetnam](https://tyson-swetnam.github.io/) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
