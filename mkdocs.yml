@@ -32,7 +32,7 @@ theme:
   font:
     text: Google Sans
     code: Regular
-  favicon: assets/Monkey_face.png
+  favicon: assets/Monkey_Face.png
   icon:
     logo: monkey
 
