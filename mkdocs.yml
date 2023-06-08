@@ -85,7 +85,7 @@ markdown_extensions:
   - pymdownx.tilde
   
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/custom.css
 
 # Page tree
 nav:
