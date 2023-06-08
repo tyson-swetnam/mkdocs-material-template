@@ -100,3 +100,7 @@ nav:
   - Results:
     - Poster: poster.md
   - References: references.md
+
+# Theme
+theme:
+  name: material
