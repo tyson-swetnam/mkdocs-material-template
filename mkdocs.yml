@@ -27,8 +27,8 @@ theme:
   language: en
   palette:
     scheme: default
-    primary: blue
-    accent: pink
+    primary: black
+    accent: blue
   font:
     text: Google Sans
     code: Regular
