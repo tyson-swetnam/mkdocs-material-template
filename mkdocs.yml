@@ -35,7 +35,7 @@ theme:
     accent: blue
       
   font:
-    text: Lobster
+    text: Nunito
     code: Regular
   logo: 'assets/monkey_face.png'
   favicon: 'assets/favicon.ico'
