@@ -16,7 +16,7 @@ theme:
   highlightjs: true
   name: material
   font:
-    text: 'Serif'
+    text: 'Open Sans'
     code: 'Roboto Mono'
 
   # 404 page
@@ -34,7 +34,7 @@ theme:
     primary: black
     accent: blue
   font:
-    text: Google Sans
+    text: Serif
     code: Regular
   logo: 'assets/monkey_face.png'
   favicon: 'assets/favicon.ico'
