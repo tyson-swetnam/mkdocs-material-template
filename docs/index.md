@@ -9,7 +9,7 @@ Advisor: [Tyson Lee Swetnam](https://tyson-swetnam.github.io/) [![](https://orci
 
 ## About
 
-
+Ellie Dorland is a rising senior at City Highschool in Tucson, Arizona. During the summer of 2023 she is an intern at The University of Arizona through the BIO5 Institute's KEYS program.
 
 This summer she is an intern working at The University of Arizona in Dr. Tyson L. Swetnam's lab: a member of [CyVerse](https://cyverse.org), a cutting edge cyberinfrastructure funded by the National Science Foundation that is designed for research and committed to the principles of open science. 
  
