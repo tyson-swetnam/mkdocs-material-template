@@ -27,8 +27,8 @@ theme:
   language: en
   palette:
     scheme: default
-    primary: midnight blue
-    accent: misty rose
+    primary: navy blue
+    accent: rose
   font:
     text: Google Sans
     code: Regular
