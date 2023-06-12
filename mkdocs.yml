@@ -13,7 +13,11 @@ copyright: 'Copyright &copy; 2023 - 2024 Ellie Dorland'
 
 # Configuration
 theme:
-  name: 'material'
+  highlightjs: true
+  name: material
+  font:
+    text: 'Open Sans'
+    code: 'Roboto Mono'
 
   # 404 page
   static_templates:
