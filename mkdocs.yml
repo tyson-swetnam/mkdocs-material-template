@@ -84,6 +84,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   
+new-custom_css:
+  - stylesheets/extra.css
+  
 
 
 # Page tree
