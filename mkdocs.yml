@@ -14,7 +14,7 @@ copyright: 'Copyright &copy; 2023 - 2024 Ellie Dorland'
 # Configuration
 theme:
   highlightjs: true
-  name: material
+  name: cosmo
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
