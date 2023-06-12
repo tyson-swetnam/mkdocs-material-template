@@ -28,7 +28,7 @@ theme:
   palette:
     scheme: default
     primary: navy blue
-    accent: rose
+    accent: light yellow
   font:
     text: Google Sans
     code: Regular
