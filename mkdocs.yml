@@ -35,7 +35,7 @@ theme:
     accent: blue
       
   font:
-    text: Nunito
+    text: Merriweather
     code: Regular
   logo: 'assets/monkey_face.png'
   favicon: 'assets/favicon.ico'
