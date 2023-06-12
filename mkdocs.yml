@@ -16,7 +16,7 @@ theme:
   highlightjs: true
   name: material
   font:
-    text: 'Open Sans'
+    text: 'Serif'
     code: 'Roboto Mono'
 
   # 404 page
