@@ -13,7 +13,7 @@ copyright: 'Copyright &copy; 2023 - 2024 Ellie Dorland'
 
 # Configuration
 theme:
-  name: mkdocs
+  name: material
   highlightjs: true
   font:
     text: 'Open Sans'
