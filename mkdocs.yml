@@ -15,9 +15,6 @@ copyright: 'Copyright &copy; 2023 - 2024 Ellie Dorland'
 theme:
   name: mkdocs
   highlightjs: true
-   hljs_languages:
-        - yaml
-        - rust
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
