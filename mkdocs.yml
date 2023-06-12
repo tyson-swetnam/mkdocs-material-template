@@ -13,8 +13,11 @@ copyright: 'Copyright &copy; 2023 - 2024 Ellie Dorland'
 
 # Configuration
 theme:
+  name: mkdocs
   highlightjs: true
-  name: material
+   hljs_languages:
+        - yaml
+        - rust
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
