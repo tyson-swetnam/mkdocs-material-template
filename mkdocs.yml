@@ -100,6 +100,7 @@ nav:
   - Logbook: logbook.md
   - Assignments: keysassignments.md
   - Jupyter Notebooks: jupyter.md
+  - Python Code: python.md
   - GitHub Actions:
     - GitHub Education Access: githubed.md
   - KEYS 2023 Main Project: 
