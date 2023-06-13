@@ -1,0 +1,43 @@
+/* Set a background color and font style for the entire page */
+body {
+    background-color: #fcffff;
+    font-family: Merriweather, Merriweather;
+  }
+  
+  /* Add a cool gradient effect to the page header */
+  header {
+    background: linear-gradient(to right, #ffa0fa, #7984ff);
+    padding: 23px;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Style the main content section with a subtle box shadow and rounded corners */
+  .main-content {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(232, 229, 231, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Add a hover effect to buttons */
+  .button {
+    background-color: #c1cfc2;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the footer with a background color and centered text */
+  footer {
+    background: linear-gradient(to right, #ffa0fa, #7984ff);
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  
