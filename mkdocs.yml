@@ -100,9 +100,14 @@ nav:
   - Logbook: logbook.md
   - Assignments: keysassignments.md
   - Jupyter Notebooks: jupyter.md
-  - Python Code: python.md
-  - GitHub Actions:
-    - GitHub Education Access: githubed.md
+  - GitHub:
+    - Education Access: githubed.md
+    - Actions: githubactions.md
+    - Codespaces: githubcodespaces.md
+  - Chat GPT:
+    - Prompting: chatgptprompts.md
+    - Coptilot: chatgptcopilot.md
+    - Google Bard: chatgptbard.md
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
   - Results:

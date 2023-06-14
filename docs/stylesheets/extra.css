@@ -1,13 +1,15 @@
 /* Set a background color and font style for the entire page */
 body {
-    background-color: #fffef9;
-    font-family: Merriweather, Merriweather;
+    background-color: #ffffff;
+    font-family: Merriweather, Merriweather;color:#07203d
+    
   }
+
   
   /* Add a cool gradient effect to the page header */
   header {
     background: linear-gradient(to right, #ffa0fa, #7984ff);
-    padding: 23px;
+    padding: 30px;
     color: rgb(255, 255, 255);
   }
   
