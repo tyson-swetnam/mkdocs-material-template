@@ -89,9 +89,6 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   
-extra_css:
-  - stylesheets/extra.css
-  
 
 
 # Page tree
@@ -113,3 +110,6 @@ nav:
   - Results:
     - Poster: poster.md
   - References: references.md
+
+extra_css:
+  - stylesheets/extra.css
