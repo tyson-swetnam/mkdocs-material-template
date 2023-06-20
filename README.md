@@ -8,3 +8,5 @@ pip install mkdocs-material
 ```
 python -m mkdocs serve
 ```
+
+```jupyter nbconvert --to html heatmapcovid.ipynb```
