@@ -107,6 +107,7 @@ nav:
     - Google Bard: chatgptbard.md
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
+    - Covid Map: heatmapcovid.ipynb
   - Results:
     - Poster: poster.md
   - References: references.md
