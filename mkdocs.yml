@@ -96,24 +96,16 @@ nav:
   - Introduction: index.md
   - Logbook: logbook.md
   - Assignments: keysassignments.md
-  - Jupyter Notebooks: jupyter.md
-  - Python:
-    - Python Basics: pythonbasics.md
-    - Python Functions: pythonfunctions.md
-    - Python Classes: pythonclasses.md
-    - Python Packages: pythonpackages.md
-  - GitHub:
-    - Education Access: githubed.md
-    - Actions: githubactions.md
-    - Codespaces: githubcodespaces.md
-  - Chat GPT:
-    - Prompting: chatgptprompts.md
-    - Coptilot: chatgptcopilot.md
-    - Google Bard: chatgptbard.md
+  - Resources:
+    - Jupyter Notebooks: jupyter.md
+    - Python: python.md
+    - Chat GPT: chatgpt.md
+    - GitHub:
+      - Education Access: githubed.md
+      - Actions: githubactions.md
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
     - Covid Map: jupyternotebooks.md
-  - Results:
     - Poster: poster.md
   - References: references.md
 
