@@ -99,7 +99,7 @@ nav:
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
     - Covid Map: covid19heatmap.html
-    - Covid 19 Data: jupyternotebooks.md
+    - Covid-19 Origin Code: covidheatmap.ipynb
     - Poster: poster.md
     - References: references.md
   - Resources:
@@ -110,3 +110,8 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - mkdocs-jupyter:
+      execute: true
+      kernel_name: heatmap
