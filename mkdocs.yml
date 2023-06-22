@@ -111,5 +111,3 @@ nav:
 extra_css:
   - stylesheets/extra.css
 
-plugins:
-  - mkdocs-jupyter
