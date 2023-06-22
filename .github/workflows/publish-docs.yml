@@ -14,12 +14,10 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.9
-        name: run requirements
-        run: |
-          pip install -r requirements.txt
+      - name: run requirements
+        run: pip install -r requirements.txt
       - name: remove requirements file
-        run: |
-          rm -Rf requirements.txt
+        run: rm -Rf requirements.txt
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.16
         env:
