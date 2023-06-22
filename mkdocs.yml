@@ -91,6 +91,7 @@ markdown_extensions:
   
 
 
+
 # Page tree
 nav:
   - Introduction: index.md
@@ -108,6 +109,8 @@ nav:
     - Jupyter Notebooks: jupyter.md
     - GitHub: github.md
 
+plugins:
+  - mkdocs-jupyter
+
 extra_css:
   - stylesheets/extra.css
-
