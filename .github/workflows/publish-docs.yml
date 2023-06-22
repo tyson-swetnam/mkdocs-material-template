@@ -15,10 +15,19 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.9
-      - name: update pip
-        run: python -m pip install --upgrade pip
-      - name: run requirements
-        run: pip install -r requirements.txt
+      - uses: actions/cache@v3
+        id: cached-python-env
+        with:
+          path: ${{ env.pythonLocation }}
+          key: >
+            python
+            ${{ runner.os }}
+            python-3.9
+            ${{ hashFiles('requirements.txt') }}
+      - name: Install dependencies
+        if: steps.cached-python-env.outputs.cache-hit != 'true'
+        run: |
+          pip install -r requirements.txt
       - name: remove requirements file
         run: rm -Rf requirements.txt
       - name: Check install packages
