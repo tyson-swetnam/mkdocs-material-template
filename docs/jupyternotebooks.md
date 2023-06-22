@@ -1,1 +1,1 @@
-<iframe src="https://raw.githubusercontent.com/edorland1/KEYS2023/gh-pages/covid19/heatmapcovid.html" width="100%" height="500px"></iframe>
+<iframe src="https://raw.githubusercontent.com/edorland1/KEYS2023/gh-pages/covid19heatmap.html" width="100%" height="500px"></iframe>
