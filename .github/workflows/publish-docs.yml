@@ -15,6 +15,8 @@ jobs:
         run: python -m pip install --upgrade pip
       - name: run requirements
         run: pip install -r requirements.txt
+      - name: remove requirements file
+        run: rm -Rf requirements.txt
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.16
         env:
