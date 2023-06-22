@@ -15,6 +15,7 @@ wheel
 mkdocs-git-revision-date-plugin 
 #mkdocs-jupyter 
 mkdocs-material 
+mkdocs-jupyter
 mkdocs-pdf-export-plugin
 mkdocstrings 
 mkdocstrings-crystal
