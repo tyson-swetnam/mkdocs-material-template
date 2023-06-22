@@ -15,7 +15,6 @@ wheel
 mkdocs-git-revision-date-plugin 
 #mkdocs-jupyter 
 mkdocs-material 
-mkdocs-jupyter
 mkdocs-pdf-export-plugin
 mkdocstrings 
 mkdocstrings-crystal
@@ -25,6 +24,7 @@ mkdocstrings-python-legacy
 jinja2>=3.0
 markdown>=3.2
 mkdocs
+mkdocs-jupyter
 mkdocs-material-extensions
 pygments>=2.14
 pymdown-extensions>=9.9.1
