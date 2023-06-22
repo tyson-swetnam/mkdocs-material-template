@@ -4,3 +4,4 @@ dependencies:
   - pandas
   - matplotlib
   - folium
+  - mkdocs-jupyter
