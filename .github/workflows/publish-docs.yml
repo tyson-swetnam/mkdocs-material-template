@@ -19,6 +19,8 @@ jobs:
         run: rm -Rf requirements.txt
       - name: mkdocs-jupyter
         run: pip install mkdocs-jupyter
+      - name: Check install packages
+        run: pip freeze
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.16
         env:
