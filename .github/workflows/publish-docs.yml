@@ -11,9 +11,6 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v1
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9
       - name: run requirements
         run: pip install -r requirements.txt
       - name: remove requirements file
