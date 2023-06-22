@@ -96,18 +96,16 @@ nav:
   - Introduction: index.md
   - Logbook: logbook.md
   - Assignments: keysassignments.md
-  - Resources:
-    - Jupyter Notebooks: jupyter.md
-    - Python: python.md
-    - Chat GPT: chatgpt.md
-    - GitHub:
-      - Education Access: githubed.md
-      - Actions: githubactions.md
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
     - Covid Map: jupyternotebooks.md
     - Poster: poster.md
-  - References: references.md
+    - References: references.md
+  - Resources:
+    - Chat GPT: chatgpt.md
+    - Coding, Data Science & AI: python.md
+    - Jupyter Notebooks: jupyter.md
+    - GitHub: github.md
 
 extra_css:
   - stylesheets/extra.css
