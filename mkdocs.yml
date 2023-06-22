@@ -90,7 +90,8 @@ markdown_extensions:
   - pymdownx.tilde
   
 
-
+plugins:
+  - mkdocs-jupyter
 
 # Page tree
 nav:
@@ -109,8 +110,7 @@ nav:
     - Jupyter Notebooks: jupyter.md
     - GitHub: github.md
 
-plugins:
-  - mkdocs-jupyter
+
 
 extra_css:
   - stylesheets/extra.css
