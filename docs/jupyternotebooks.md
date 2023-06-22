@@ -1,1 +1,1 @@
-<iframe src="covid19heatmap.html" width="100%" height="500px"></iframe>
+<iframe src="./covid19heatmap.html" width="100%" height="500px"></iframe>

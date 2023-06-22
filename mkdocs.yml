@@ -98,7 +98,8 @@ nav:
   - Assignments: keysassignments.md
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
-    - Covid Map: jupyternotebooks.md
+    - Covid Map: covid19heatmap.html
+    - Covid 19 Data: jupyternotebooks.md
     - Poster: poster.md
     - References: references.md
   - Resources:
