@@ -1,4 +1,4 @@
-mkdocs-jupyter==0.24.1
+mkdocs-jupyter==0.24.0
 bump2version
 coverage
 flake8

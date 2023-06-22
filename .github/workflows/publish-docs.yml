@@ -21,8 +21,6 @@ jobs:
         run: pip install -r requirements.txt
       - name: remove requirements file
         run: rm -Rf requirements.txt
-      - name: mkdocs-jupyter
-        run: pip install mkdocs-jupyter
       - name: Check install packages
         run: pip freeze
       - name: Deploy docs
