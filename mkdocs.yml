@@ -102,7 +102,7 @@ nav:
       - Covid-19 Origin Code: covidheatmap.ipynb
       - Covid-19 Origin Map: covid19heatmap.html
     - 1854 Cholera Outbreak:
-      - Data Change: datachange.ipynb
+      - BNG to Longitude and Lattitude: BNGtoLonLat.ipynb
       - Cholera Origin Code: heatmapcholera.ipynb
       - Cholera Origin Map: choleraheatmapnew.html
     - References: references.md
