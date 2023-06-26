@@ -86,7 +86,7 @@ Introduction
 - AIM: creating reusable pythin code that can applied to various datasets, evaluate specialized data and create informative heatmaps
 - HEATMAPS: visual representations of intensity/density of data in specified areas, such as areas of origin in disease (epedemiology)
 - COVID-19 outbreak 2020: Michael Worobey, identified suspcted origiin Huhan Seafood Market in Whuhan by heatmaping
-- Cholera outbreak 1854: Jhon snow, teaced origin of outbreak to water pump using heapmaping
+- CHOLERA outbreak 1854: Jhon snow, teaced origin of outbreak to water pump using heapmaping
 - GOAL: create inclusive and effective approach to combating epedemics, while implementing widespread use of AI in data science field
 
 
