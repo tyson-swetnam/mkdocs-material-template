@@ -91,9 +91,9 @@ markdown_extensions:
   
 
 plugins:
-  # mkdocs-jupyter
+  - mkdocs-jupyter
   - search
-  #- mkdocstrings
+  - mkdocstrings
 
 # Page tree
 nav:
