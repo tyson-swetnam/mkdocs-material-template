@@ -101,9 +101,9 @@ nav:
     - Covid-19 Origin: 
       - Covid-19 Origin Code: covidheatmap.ipynb
       - Covid-19 Origin Map: covid19heatmap.html
-    - Other disease:
+    - 1854 Cholera Outbreak:
       - Data Change: datachange.ipynb
-      - Other disease code: heatmapcholera.ipynb
+      - Cholera Origin Code: heatmapcholera.ipynb
       - Cholera Origin Map: choleraheatmapnew.html
     - References: references.md
   - Resources:
