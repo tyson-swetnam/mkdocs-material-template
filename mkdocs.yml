@@ -97,8 +97,12 @@ nav:
   - Assignments: keysassignments.md
   - KEYS 2023 Main Project: 
     - My Project: myproject.md
-    - Covid Map: covid19heatmap.html
-    - Covid-19 Origin Code: covidheatmap.ipynb
+    - Covid-19 Origin: 
+      - Covid-19 Origin Code: covidheatmap.ipynb
+      - Covid-19 Origin Map: jupyternotebooks.md
+    - Other disease:
+      - Other disease code: otherdiseaseheatmap.ipynb
+      - Other disease map: otherdiseaseheatmap.html
     - Poster: poster.md
     - References: references.md
   - Resources:
@@ -106,6 +110,7 @@ nav:
     - Coding, Data Science & AI: python.md
     - Jupyter Notebooks: jupyter.md
     - GitHub: github.md
+    - Cyverse: cyverse.md
 
 
 
