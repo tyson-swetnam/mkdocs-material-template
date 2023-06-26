@@ -90,11 +90,6 @@ markdown_extensions:
   - pymdownx.tilde
   
 
-plugins:
-  - mkdocs-jupyter
-  - search
-  - mkdocstrings
-
 # Page tree
 nav:
   - Introduction: index.md
@@ -116,3 +111,11 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+    - search
+    - mkdocstrings
+    - git-revision-date
+    - mkdocs-jupyter:
+          include_source: True
+          ignore_h1_titles: True
