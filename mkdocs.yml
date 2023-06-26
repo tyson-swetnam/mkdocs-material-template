@@ -102,8 +102,8 @@ nav:
       - Covid-19 Origin Code: covidheatmap.ipynb
       - Covid-19 Origin Map: covid19heatmap.html
     - Other disease:
-      - Other disease code: otherdiseaseheatmap.ipynb
-      - Other disease map: otherdiseaseheatmap.html
+      - Other disease code: heatmapcholera.ipynb
+      - Cholera Origin Map: choleraheatmapnew.html
     - References: references.md
   - Resources:
     - Chat GPT: chatgpt.md
