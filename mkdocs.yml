@@ -99,7 +99,7 @@ nav:
     - My Project: myproject.md
     - Covid-19 Origin: 
       - Covid-19 Origin Code: covidheatmap.ipynb
-      - Covid-19 Origin Map: jupyternotebooks.md
+      - Covid-19 Origin Map: covid19heatmap.html
     - Other disease:
       - Other disease code: otherdiseaseheatmap.ipynb
       - Other disease map: otherdiseaseheatmap.html
