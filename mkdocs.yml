@@ -100,7 +100,7 @@ nav:
     - Poster: poster.md
     - Covid-19 Origin: 
       - Covid-19 Origin Code: covidheatmap.ipynb
-      - Covid-19 Origin Map: covid19heatmap.html
+      - Covid-19 Origin Map: covid19heatmapfinal1.html
     - 1854 Cholera Outbreak:
       - BNG to Longitude and Lattitude: BNGtoLonLat.ipynb
       - Cholera Origin Code: heatmapcholera.ipynb
