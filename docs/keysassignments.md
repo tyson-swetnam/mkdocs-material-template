@@ -38,6 +38,18 @@ References:
 -   now, J. (1855). On the Mode of Communication of Cholera (2nd ed.). John Churchill.
 
 
+#### Mock Up
+
+Introduction
+- ARITIFCIAL INTELEGENCE (AI): computer systems capable of preforming tasks typically requiering human intellegence
+- FOCUS: utilizing AI tools to analyze epedemic reated data (ex. COVID-19, Cholera)
+- AIM: creating reusable pythin code that can applied to various datasets, evaluate specialized data and create informative heatmaps
+- HEATMAPS: visual representations of intensity/density of data in specified areas, such as areas of origin in disease (epedemiology)
+- COVID-19 outbreak 2020: Michael Worobey, identified suspcted origiin Huhan Seafood Market in Whuhan by heatmaping
+- CHOLERA outbreak 1854: Jhon snow, teaced origin of outbreak to water pump using heapmaping
+- GOAL: create inclusive and effective approach to combating epedemics, while implementing widespread use of AI in data science field
+
+
 ## Assignment 3: Materials and Methods 
 
 
@@ -78,16 +90,6 @@ https://tools.niehs.nih.gov/cehsweb/assets/fileassets/datavisualization/heatmap.
 • Worobey, M. (2021). The Origins of COVID-19. Scientific American, 325(1), 46-53.
 • Snow, J. (1855). On the Mode of Communication of Cholera (2nd ed.). John Churchill.
 
-#### Mock Up
-
-Introduction
-- ARITIFCIAL INTELEGENCE (AI): computer systems capable of preforming tasks typically requiering human intellegence
-- FOCUS: utilizing AI tools to analyze epedemic reated data (ex. COVID-19, Cholera)
-- AIM: creating reusable pythin code that can applied to various datasets, evaluate specialized data and create informative heatmaps
-- HEATMAPS: visual representations of intensity/density of data in specified areas, such as areas of origin in disease (epedemiology)
-- COVID-19 outbreak 2020: Michael Worobey, identified suspcted origiin Huhan Seafood Market in Whuhan by heatmaping
-- CHOLERA outbreak 1854: Jhon snow, teaced origin of outbreak to water pump using heapmaping
-- GOAL: create inclusive and effective approach to combating epedemics, while implementing widespread use of AI in data science field
 
 
 ## Assignment 4: Results 
