@@ -100,12 +100,12 @@ nav:
     - Poster: poster.md
     - Covid-19 Origin: 
       - Covid-19 Origin Code: covidheatmap.ipynb
-      - Final COVID-19 Code: FinalCovid(2).ipynb
+      - Final COVID-19 Code: FinalCovid (2).ipynb
       - Covid-19 Origin Map: FinalCovidHeatmap.html
     - 1854 Cholera Outbreak:
       - BNG to Longitude and Lattitude: BNGtoLonLat.ipynb
       - Cholera Origin Code: heatmapcholera.ipynb
-      - Cholera Final Code: Untitled(2).ipynb
+      - Cholera Final Code: Untitled (1).ipynb
       - Cholera Origin Map: CholeraFinal.html
     - References: references.md
   - Resources:
