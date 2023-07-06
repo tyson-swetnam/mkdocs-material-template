@@ -28,3 +28,4 @@
 
 (7/5): Today after seminar I got most of my poster done and now I only really need to work on getting the final steps of my heatmap done, mostly making more understandable. I also need to work on my KEYS slam, elevetor speach and final things for my poster.
 
+(7/6): Today I worked on my heatmaps and I was funally able to add a legend and a box in the corner explaining where the data is from, and I uploaded the new maps along with the new annotated code to my website. I was also able to get a lot done with my poster and my next goal is to work on the other data representation that needs a legend and possibly getting the heatmap completed from the origin of COVID-19.
