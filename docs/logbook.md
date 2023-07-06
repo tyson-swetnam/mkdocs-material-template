@@ -25,3 +25,6 @@
 (6/29): Today I worked on finishing my keys assignment for this week and starting working on my poster. I also looked at some coding issues I was having. Next week I am going to work on finishing my poster and KEYS Slam, and also work on a new heatmap with a slider, adding boxes that explain where the data I am getting is from on my maps and adding a guide for intensity of cases (maybe look into HTML?)
 
 (7/3): Today I looked at the code for my changing heat map. I have been having a hard time being able to make the code useable and having the code output the correct things. I looked at some videos because Chat GPT wasn't giving me enough in depth information. I plan to re evaluate my plan for the last few weeks on Wednesday. I also have some visual changes to make to my original heatmaps and many KEYS assignments to complete before the poster session. So those are top priority.
+
+(7/5): Today after seminar I got most of my poster done and now I only really need to work on getting the final steps of my heatmap done, mostly making more understandable. I also need to work on my KEYS slam, elevetor speach and final things for my poster.
+
