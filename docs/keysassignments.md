@@ -94,6 +94,9 @@ https://tools.niehs.nih.gov/cehsweb/assets/fileassets/datavisualization/heatmap.
 
 ## Assignment 4: Results 
 
+A heatmap depicting the origins of COVID-19 based on Michael Worobey’s original study. The code was made with the help of AI
+
+A heatmap depicting John Snow’s 1854 Cholera outbreak in London. The code was created with the help of AI.
 
 ## Assignment 5 Long Abstract
 
@@ -103,12 +106,19 @@ https://tools.niehs.nih.gov/cehsweb/assets/fileassets/datavisualization/heatmap.
 
 ## Assignment 6 Conclusion and Discussion
 
+The successful integration of AI tools in this research project opens exciting opportunities for future exploration in data science. 
 
+AI's transformative potential in epidemic analysis makes it a promising avenue for making data analysis more accessible and efficient. By optimizing AI algorithms and expanding the scope of analyzed datasets, we can enhance public health and epidemiological research. 
+
+AI's continued advancement enables real-time analysis of vast amounts of epidemic data, uncovering valuable insights and patterns. Collaborative efforts and inclusive scientific communities can thrive with the integration of AI in data science. 
+
+This revolutionizes our approach to public health, empowering us to respond effectively to emerging health crises and proactively prevent epidemics.
 
 ## Assignment 7 Title and Short Abstract
 
 ### Title
 
+Utilizing Artificial Inteligence in Epedemic Heatmaping and Data Visualization
 
 ### Short Abstract
 
