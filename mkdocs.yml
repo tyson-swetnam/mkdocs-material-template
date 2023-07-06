@@ -103,8 +103,8 @@ nav:
       - Covid-19 Origin Map: FinalCovidHeatmap.html
     - 1854 Cholera Outbreak:
       - BNG to Longitude and Lattitude: BNGtoLonLat.ipynb
-      - Cholera Origin Code: CholeraFinal.ipynb
-      - Cholera Origin Map: choleraheatmapnew.html
+      - Cholera Origin Code: heatmapcholera.ipynb
+      - Cholera Origin Map: CholeraFinal.html
     - References: references.md
   - Resources:
     - Chat GPT: chatgpt.md
