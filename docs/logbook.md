@@ -29,3 +29,8 @@
 (7/5): Today after seminar I got most of my poster done and now I only really need to work on getting the final steps of my heatmap done, mostly making more understandable. I also need to work on my KEYS slam, elevetor speach and final things for my poster.
 
 (7/6): Today I worked on my heatmaps and I was funally able to add a legend and a box in the corner explaining where the data is from, and I uploaded the new maps along with the new annotated code to my website. I was also able to get a lot done with my poster and my next goal is to work on the other data representation that needs a legend and possibly getting the heatmap completed from the origin of COVID-19.
+
+(7/10): Toada I met with someone in Data Science to get some help with my heatmaping, unfortuanetly it did not help a lot and I still can't get the map to populate. 
+
+(7/11): Today I continued to work on the heatmap, and I was able to get it to populate at least but there was somethinhg wrong and it did not show a difference in the amount of covid cases. I think that I am going to pause work on this and work on my poster the next few days because that is due very soon and I probably will not have the heatmap done in time. Once that is done an submited I will look at the last few things I wanted to complete when I get to it next week.
+
