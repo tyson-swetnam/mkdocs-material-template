@@ -107,6 +107,7 @@ nav:
       - Cholera Origin Code: heatmapcholera.ipynb
       - Cholera Final Code: Untitled (1).ipynb
       - Cholera Origin Map: CholeraFinal.html
+    - Acknowledgments: Acknowledgments.md
     - References: references.md
   - Resources:
     - Chat GPT: chatgpt.md
