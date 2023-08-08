@@ -38,18 +38,6 @@ References:
 -   now, J. (1855). On the Mode of Communication of Cholera (2nd ed.). John Churchill.
 
 
-#### Mock Up
-
-Introduction
-- ARITIFCIAL INTELEGENCE (AI): computer systems capable of preforming tasks typically requiering human intellegence
-- FOCUS: utilizing AI tools to analyze epedemic reated data (ex. COVID-19, Cholera)
-- AIM: creating reusable pythin code that can applied to various datasets, evaluate specialized data and create informative heatmaps
-- HEATMAPS: visual representations of intensity/density of data in specified areas, such as areas of origin in disease (epedemiology)
-- COVID-19 outbreak 2020: Michael Worobey, identified suspcted origiin Huhan Seafood Market in Whuhan by heatmaping
-- CHOLERA outbreak 1854: Jhon snow, teaced origin of outbreak to water pump using heapmaping
-- GOAL: create inclusive and effective approach to combating epedemics, while implementing widespread use of AI in data science field
-
-
 ## Assignment 3: Materials and Methods 
 
 
@@ -98,13 +86,7 @@ A heatmap depicting the origins of COVID-19 based on Michael Worobey’s origina
 
 A heatmap depicting John Snow’s 1854 Cholera outbreak in London. The code was created with the help of AI.
 
-## Assignment 5 Long Abstract
-
-
-
-
-
-## Assignment 6 Conclusion and Discussion
+## Assignment 5 Conclusion and Discussion
 
 The successful integration of AI tools in this research project opens exciting opportunities for future exploration in data science. 
 
@@ -114,12 +96,20 @@ AI's continued advancement enables real-time analysis of vast amounts of epidemi
 
 This revolutionizes our approach to public health, empowering us to respond effectively to emerging health crises and proactively prevent epidemics.
 
-## Assignment 7 Title and Short Abstract
+## Assignment 6 Title and Short Abstract
 
 ### Title
 
-Utilizing Artificial Inteligence in Epedemic Heatmaping and Data Visualization
+Utilizing Artificial Intelligence in Epidemic Heat Mapping and Data Visualization
 
 ### Short Abstract
 
-
+My project focused on the utilization of artificial intelligence (AI) tools, specifically Chat GPT to
+analyze epidemic-related data, with emphasis on COVID-19 and Cholera. The goal was to develop a
+reusable Python code capable of generating heat maps to identify areas of concentration or origin for
+epidemic outbreaks. The project employed a three-step process: using Chat GPT to generate Python
+code, publishing the code on GitHub for collaboration, and executing the code using Jupyter Notebooks
+for data analysis. The project aimed to integrate AI into the field of data science and foster a more
+accessible and collaborative scientific community. By embracing the potential of AI, the research sought
+to advance scientific inquiry, enhance data analysis, and promote an inclusive approach to
+understanding and combating epidemics.
