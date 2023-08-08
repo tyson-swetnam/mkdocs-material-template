@@ -96,7 +96,6 @@ nav:
   - Logbook: logbook.md
   - Assignments: keysassignments.md
   - KEYS 2023 Main Project: 
-    - Final Paper: myproject.md
     - Poster: poster.md
     - Covid-19 Origin: 
       - Covid-19 Origin Code: covidheatmap.ipynb
