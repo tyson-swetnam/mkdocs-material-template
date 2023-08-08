@@ -34,3 +34,4 @@
 
 (7/11): Today I continued to work on the heatmap, and I was able to get it to populate at least but there was somethinhg wrong and it did not show a difference in the amount of covid cases. I think that I am going to pause work on this and work on my poster the next few days because that is due very soon and I probably will not have the heatmap done in time. Once that is done an submited I will look at the last few things I wanted to complete when I get to it next week.
 
+(7/12-7/21): Over the last week and a half of my internship I took the time to complete my poster and KEYS Slam, then I had my presentation and Poster Session. It was an amazing experience and I have learned a lot.
