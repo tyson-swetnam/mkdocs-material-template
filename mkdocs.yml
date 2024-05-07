@@ -1,23 +1,42 @@
-site_name: KEYS
-site_description: KEYS internship
-site_author: Ellie Dorland
-site_url: https://edorland1.github.io/KEYS2023/
+# Header 
+site_name: MKDocs Material Template
+site_description: MkDocs Material Templates
+site_author: Tyson Lee Swetnam
+site_url: https://tyson-swetnam.github.io/mkdocs-material-template/
 
-# Repository
-repo_name: KEYS2023
-repo_url: https://github.com/edorland1/KEYS2023
+# Footer
+repo_name: mkdocs-material-template
+repo_url: https://github.com/tyson-swetnam/mkdocs-material-template
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024 Ellie Dorland'
+copyright: 'Copyright &copy; 2024 Arizona Board of Regents'
+
+
+# Page tree
+nav:
+  - Introduction: index.md
+  - Logbook: logbook.md
+  - Assignments: keysassignments.md
+  - KEYS 2024 Main Project: 
+    - Poster: poster.md
+    - Assignment 1: assignment1.md
+    - Assignment 2: assignment2.md
+    - Assignment 3: assignment3.md
+    - Assignment 4: assignment4.md
+    - Assignment 5: assignment5.md
+    - Assignment 6: assignment6.md
+    - Acknowledgments: acknowledgments.md
+    - References: references.md
+  - Resources:
+    - GitHub: github.md
+    - Prompt Engineering: promptengineering.md
+
+
 
 
 # Configuration
 theme:
-  name: material
-  highlightjs: true
-  font:
-    text: 'Open Sans'
-    code: 'Roboto Mono'
+  name: 'material'
 
   # 404 page
   static_templates:
@@ -31,24 +50,52 @@ theme:
   language: en
   palette:
     scheme: default
-    primary: black
-    accent: blue
-      
+    primary: blue
+    accent: pink
   font:
-    text: Merriweather
-    code: Regular
-  logo: 'assets/monkey_face.png'
+    text: 'Open Sans'
+    code: 'Roboto Mono'
+  logo: 'assets/uarizona.png'
   favicon: 'assets/favicon.ico'
-  
+# setting features for the navigation tab
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+    - toc.follow
+    - content.code.copy
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  # custom_dir: 'overrides'
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: white)"
+      primary: 'white'
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
 # Options
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/edorland1/KEYS2023.git
-    - icon: fontawesome/brands/orcid
-      link: https://orcid.org/0009-0001-6464-250X
-
+#    - icon: fontawesome/brands/github
+#      link: https://github.com/[your-githhub-username]
+#    - icon: fontawesome/brands/twitter
+#      link: https://twitter.com/[your-twitter-username]
+#    - icon: fontawesome/brands/linkedin
+#      link: https://www.linkedin.com/in/[your-linkedin-username]
+#    - icon: fontawesome/brands/orcid
+#      link: https://orcid.org/[your-orcid-id]
 # Extensions
 markdown_extensions:
   - admonition
@@ -67,9 +114,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
@@ -88,38 +132,10 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  
-
-# Page tree
-nav:
-  - Introduction: index.md
-  - Logbook: logbook.md
-  - Assignments: keysassignments.md
-  - KEYS 2023 Main Project: 
-    - Poster: poster.md
-    - Covid-19 Origin: 
-      - Covid-19 Origin Code: covidheatmap.ipynb
-      - Final COVID-19 Code: FinalCovid (2).ipynb
-      - Covid-19 Origin Map: FinalCovidHeatmap.html
-    - 1854 Cholera Outbreak:
-      - BNG to Longitude and Lattitude: BNGtoLonLat.ipynb
-      - Cholera Origin Code: heatmapcholera.ipynb
-      - Cholera Final Code: Untitled (1).ipynb
-      - Cholera Origin Map: CholeraFinal.html
-    - Acknowledgments: acknowledgments.md
-    - References: references.md
-  - Resources:
-    - Chat GPT: chatgpt.md
-    - Coding, Data Science & AI: python.md
-    - Jupyter Notebooks: jupyter.md
-    - GitHub: github.md
-    - Cyverse: cyverse.md
-
-
 
 extra_css:
   - stylesheets/extra.css
-
+ 
 plugins:
     - search
     - mkdocstrings
