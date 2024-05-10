@@ -31,9 +31,6 @@ nav:
     - GitHub: github.md
     - Prompt Engineering: promptengineering.md
 
-
-
-
 # Configuration
 theme:
   name: 'material'
@@ -49,9 +46,9 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette:
-    scheme: default
+    scheme: keys
     primary: blue
-    accent: pink
+    accent: orange
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
