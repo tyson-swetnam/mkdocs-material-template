@@ -24,10 +24,6 @@ A step is a single task that can be used to execute commands in a job. An action
 #### Actions
 Actions are commands that are used to join steps to create a job. Actions can be created or found on the GitHub community. 
 
-> ![alt text](https://docs.github.com/assets/images/help/images/overview-actions-design.png)  
-> **Figure credit**: [GitHub Docs](https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions) The components of GitHub Actions that work together to run jobs
-
-
 # GitHub Education
 
 #### Steps to Enroll 
