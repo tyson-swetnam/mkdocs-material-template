@@ -1,5 +1,5 @@
 
-## Clones the template repository.
+## Clones the template repository
 
 Instructions for Cloning this template repository:
     
@@ -13,7 +13,7 @@ Instructions for Cloning this template repository:
     git clone https://github.com/tyson-swetnam/mkdocs-material-template
     ```
 
-## Imports the template repository.
+## Imports the template repository
 
 Instructions for Importing this template repository:
     
